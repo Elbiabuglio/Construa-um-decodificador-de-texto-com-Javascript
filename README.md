@@ -41,6 +41,7 @@ Criar uma aplicação web para codificar e decodificar textos, como parte do des
 
 <p>
 Interface construída em HTML e CSS, otimizada para dispositivos móveis e diferentes resoluções de tela.
+  
 Ícone em SVG na área de output para telas maiores.
 </p>
 <p>
@@ -48,24 +49,21 @@ Interface construída em HTML e CSS, otimizada para dispositivos móveis e difer
 ## :sparkles: Funcionalidades ##
 
 <p>
-#Codificação e decodificação de textos:
-
 Criptografia e descriptografia de mensagens utilizando funções JavaScript.
+  
 Manipulação de strings e arrays para realizar as trocas de caracteres.
-
-#Efeitos visuais:
 
 Animações simples no header e botões para aprimorar a experiência do usuário.
 </p>
 <p>
-#Resultados:
 
-Aplicação web completa e funcional.
-Interface responsiva e amigável.
-Experiência de usuário otimizada.
+- Aplicação web completa e funcional.
+- Interface responsiva e amigável.
+- Experiência de usuário otimizada.
 </p>
 <p>
   Projeto desafiador e gratificante.
+  
   Aprendizado significativo sobre desenvolvimento web.
 </p>
 
