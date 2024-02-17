@@ -31,10 +31,10 @@
 
 <br>
 
-## :dart: Descrição do Projeto Codificador/Decodificador de Texto ##
+## :dart: Descrição do Projeto Codificador e Decodificador de Texto ##
 
 <p>
-  #Objetivo: Criar uma aplicação web para codificar e decodificar textos, como parte do desafio da turma T6 - ONE do Programa ONE da Oracle + Alura.
+Criar uma aplicação web para codificar e decodificar textos, como parte do desafio da turma T6 - ONE do Programa ONE da Oracle + Alura.
 </p>
 
 ## :sparkles: Front-end responsivo ##
