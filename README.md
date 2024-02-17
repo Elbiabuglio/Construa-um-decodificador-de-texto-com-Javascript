@@ -24,7 +24,7 @@
 </p>
 
 <p align='center'>
-<a href='#dart-sobre'>Descrição do Projeto Codificador/Decodificador de Texto</a> &#xa0; | &#xa0;
+<a href='#dart-sobre'>Descrição do Projeto</a> &#xa0; | &#xa0;
 <a href='#sparkles-funcionalidades'>Funcionalidades</a> &#xa0; | &#xa0;
 <a href='https://github.com/Elbiabuglio' target='_blank'>Autor</a>
 </p>
